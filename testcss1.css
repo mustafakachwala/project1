@@ -1,0 +1,150 @@
+body{
+	background: url("images2.jpg") repeat scroll 0 0 ;
+	text-align:center;
+}
+
+div#toppad{
+	height: 27px;
+}
+
+div#container{
+	background-color:white;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 960%;
+	height: 860px;
+	background: url("images4.jpg") repeat scroll 0 0 ;
+	
+	
+}
+
+div#menu{
+	
+	text-align:left;
+	margin-left:2px;
+}
+
+.row1{
+	background-color:#B9450B;
+}
+
+.row3{
+	background-color:#B9450B;
+}
+
+.row1:hover {
+	background-color:#FF0000;
+} 
+
+.row3:hover {
+	background-color:#FF0000;
+} 
+
+#content{
+	background: url("images7.jpg")
+}
+
+#rightbar{
+	background-color:#F2D163;
+	
+}
+
+#nav {
+	margin: 0 auto;	
+	list-style: none;
+}
+
+#nav ul li {
+	line-height:35px;
+}
+
+background-color:#FEF2CF
+
+div#footer{
+	
+	color:white;
+	width:960px; 
+	height: 150px; 
+	text-align:center;
+}
+
+h1{
+	font-family: Ravie, san-serif;
+	font-size:35px;
+	font-weight:900;
+	color:white;
+	background: url("images4.jpg") repeat
+	
+}
+
+h2{
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.paratext{
+	font-size:20px;
+	font family:
+	
+}
+
+div#blurb{
+	width:735px;
+	padding:10px 10px;
+	
+	}
+
+	
+div#content{
+	width:756px;
+	height:750px; 
+	float:left;
+	text-align:left;
+}
+
+div#menu{
+	width:200px; 
+	height:750px; 
+	float:left;
+	text-align:left;
+	background: url("images4.jpg");
+	
+}
+
+div.header h1{
+	 
+	text-align: left;
+	vertical-align: middle;
+	
+}
+
+div.header{
+	width:930px;
+	height:60px;
+	padding:10px 10px;
+	
+}
+
+
+li.mid{
+	background-color:brown;
+}
+
+div#footer ,foot{
+	color:white;	
+}
+
+#nav a:link, #nav a:visited{
+	float: left;
+	line-height: 42px;
+	height: 42px;
+	display: block;
+	padding: 0 22px 0 22px;
+	color: #fff;
+	text-decoration: none;
+	color:white;
+}
+
+#nav a:hover, #nav a:active {
+	text-decoration: underline;
+	background: #000 url('images/nav/nav_hover.png') repeat-x;
+	}
